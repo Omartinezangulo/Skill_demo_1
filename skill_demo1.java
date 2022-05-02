@@ -1,5 +1,7 @@
 public class skill_demo1{
 
-// add code
+    public static int sub(int a, int b){
+        return a-b;
+    }
 
 }
